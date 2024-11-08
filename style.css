@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.flash{
+    background: transparent !important;
+    outline: 3px solid black;
+}
+.user-flash{
+    background: gray !important;
+    outline: 2px solid black;
+}
+.wrong-flash{
+    background: red !important;
+}
